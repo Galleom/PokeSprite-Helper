@@ -10,4 +10,4 @@ in excel/scv format I used to fill in the database for the website.
 I couldn't find pokemon availability databases anywhere in this format, 
 so hopefully someone else finds it useful.
 
-Said databases are in /data.
+Said databases are in /data. while /pokedata includes the databases in coalesced form.
