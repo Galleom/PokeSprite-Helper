@@ -15,7 +15,7 @@ def csv_to_json_no_keys(csv_file_path, json_file_path):
         json.dump(data, json_file)
 
 # Example usage
-csv_file_path = '.\\pokedata\\table_pokedata2.csv'  # Replace with your CSV file path
+csv_file_path = '.\\pokedata\\table_pokedata.csv'  # Replace with your CSV file path
 json_file_path = 'output.json'  # Replace with your desired JSON file path
 csv_to_json_no_keys(csv_file_path, json_file_path)
 
